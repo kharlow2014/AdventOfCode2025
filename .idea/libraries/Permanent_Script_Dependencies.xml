@@ -104,6 +104,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" />
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2025.2/kotlinNotebook/adventofcode2025.4f4a6209/kernels/0.13.0-600-1/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.13.0-600-1.jar" />
+      <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2025.2/kotlinNotebook/adventofcode2025.cf372eb3/kernels/0.13.0-600-1/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.13.0-600-1.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -210,6 +211,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar" />
       <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2025.2/kotlinNotebook/adventofcode2025.4f4a6209/kernels/0.13.0-600-1/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.13.0-600-1-sources.jar" />
+      <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2025.2/kotlinNotebook/adventofcode2025.cf372eb3/kernels/0.13.0-600-1/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.13.0-600-1-sources.jar" />
     </SOURCES>
   </library>
 </component>
